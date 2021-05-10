@@ -15,11 +15,11 @@
 ### Installation
 - Clone this repo
 ```
-git clone https://github.com/viperadnan-git/force-subscribe-telegram-bot
+git clone https://github.com/dakshkohli23/Force-Subscribe-Bot
 ```
 - Change directory
 ```
-cd force-subscribe-telegram-bot
+cd Force-Subscribe-Bot
 ```
 - Install requirements
 ```
@@ -27,8 +27,8 @@ pip3 install -r requirements.txt
 ```
 
 ### Configuration 
-- [APP_ID](https://my.telegram.org/apps),
-- [API_HASH](https://my.telegram.org/apps),
+- [APP_ID](https://my.telegram.org/apps)
+- [API_HASH](https://my.telegram.org/apps)
 - [BOT_TOKEN](https://t.me/botfather) in [Config.py](Config.py) or in Environment Variables.
 
 ### Deploying

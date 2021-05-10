@@ -1,17 +1,19 @@
 {
-  "name": "Force Sub Bot",
-  "description": "Telegram's best Foruce Subscribe Bot",
+  "name": "Fingerprint Subscribe Bot",
+  "description": "Telegram's best Forc3 Subscribe Bot",
   "keywords": [
     "telegram",
     "best",
-    "force sub Bot"
+    "force Subscribe Bot",
+    "force sub bot",
+    "fingerprint bot"
   ],
-  "success_url": "https://t.me/DForDarkAngel",
-  "website": "https://github.com/Jijinr/force-subscribe-telegram-bot",
-  "repository": "https://github.com/Jijinr/force-subscribe-telegram-bot",
+  "success_url": "https://t.me/Dlaize",
+  "website": "https://github.com/dakshkohli23/Force-Subscribe-Bot",
+  "repository": "https://github.com/dakshkohli23/Force-Subscribe-Bot",
   "env": {
     "BOT_TOKEN": {
-      "description": "Your bot token, as a string.",
+      "description": "Your Bot Token, as a String.",
       "value": ""
     },
     "ENV": {
@@ -28,7 +30,7 @@
     },
     "SUDO_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": "809546777"
+      "value": ""
     }
   },
   "addons": [
